@@ -9,3 +9,14 @@
 - memory:
 - research interest:
 - expectations: 
+
+
+## Antonin
+
+- identifier: mcantonin
+- last name: Macé 
+- first name: Antonin
+- operating system: macOS
+- memory: 8 Go
+- research interest: voting, game theory, citation networks
+- expectations: learn about coding
